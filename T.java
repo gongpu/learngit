@@ -1,15 +1,15 @@
 /**
  * a tool class 
  * @author micheal
- * @time 2014-7-18
+ * @author https://github.com/gongpu
  * 
  */
-class T{
+public class T{
 
      /**  cut the content by the length
       * @param content
       * @param length
-      * return 
+      * @return string 
       *
       */ 
     public static String cutString(String content,int length){
@@ -32,5 +32,4 @@ class T{
 	System.out.println(cutString(content,5));
 
     }
-
 }
