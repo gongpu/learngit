@@ -1,6 +1,6 @@
 import java.io.IOException;
 /**
- * Excc.java 
+ * Exec.java 
  *
  */
 class Exec{
