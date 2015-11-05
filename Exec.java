@@ -8,7 +8,6 @@ import java.io.IOException;
  */
 
 /**
- * 
  * @author Guogongpu.
  * @Time 2015年11月5日
  * @Version 1.0
@@ -18,7 +17,7 @@ class Exec{
 	 * 
 	 * @param args
 	 * @throws IOException<br>
-	 * @author Guogongpu, 2015年11月5日.<br>
+	 * @author Guogongpu, 2015年11月5日<br>
 	 */
     public static void main(String args[]) throws IOException{
        Runtime.getRuntime().exec("ls");
