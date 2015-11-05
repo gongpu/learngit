@@ -1,10 +1,10 @@
 import java.io.IOException;
 /**
- * Copyright (c) 2015 youyizy.com. All rights reserved.
+ * Copyright (c) 2015 PCgroup. All rights reserved.
  * 
  * Modified log:
  * ----------------------------------
- * 2015年11月5日 Ver.1.0 Micheal Created.
+ * 2015年11月5日 Ver.1.0 Guogongpu Created.
  */
 
 /**
