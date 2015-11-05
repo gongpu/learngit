@@ -3,7 +3,7 @@
  * 
  * Modified log:
  * ----------------------------------
- * 2015Äê11ÔÂ5ÈÕ Ver.1.0 Guogongpu Created.
+ * 2015å¹´11æœˆ5æ—¥ Ver.1.0 Guogongpu Created.
  */
 
 
@@ -20,7 +20,7 @@ public class T {
 	 * @param content
 	 * @param length
 	 * @return<br>
-	 * @author Guogongpu, 2015Äê11ÔÂ5ÈÕ.<br>
+	 * @author Guogongpu, 2015å¹´11æœˆ5æ—¥.<br>
 	 */
 	public static String cutString(String content, int length) {
 		int len = content.length();
@@ -31,11 +31,11 @@ public class T {
 		}
 	}
 
-	/**
-	 * 
-	 * @param args<br>
-	 * @author Guogongpu, 2015Äê11ÔÂ5ÈÕ.<br>
-	 */
+    /**
+     * 
+     * @param args<br>
+     * @author Guogongpu, 2015å¹´11æœˆ5æ—¥.<br>
+     */
 	public static void main(String args[]) {
 		String content = "I am from guangzhou where is a beauful city!";
 		System.out.println(cutString(content, 50));

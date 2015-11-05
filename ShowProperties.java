@@ -3,14 +3,14 @@
  * 
  * Modified log:
  * ----------------------------------
- * 2015Äê11ÔÂ5ÈÕ Ver.1.0 Guogongpu Created.
+ * 2015å¹´11æœˆ5æ—¥ Ver.1.0 Guogongpu Created.
  */
 
 
 /**
- * ²é¿´ÏµÍ³ÅäÖÃ
+ * 
  * @author Guogongpu.
- * @Time 2015Äê11ÔÂ5ÈÕ
+ * @Time 2015å¹´11æœˆ5æ—¥
  * @Version 1.0
  */
 class ShowProperties {

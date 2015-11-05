@@ -5,7 +5,7 @@ import java.util.Date;
  * 
  * Modified log:
  * ----------------------------------
- * 2015Äê11ÔÂ5ÈÕ Ver.1.0 Guogongpu Created.
+ * 2015å¹´11æœˆ5æ—¥ Ver.1.0 Guogongpu Created.
  */
 
 
