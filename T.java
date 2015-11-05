@@ -24,7 +24,7 @@ public class T{
 
     /**
      * some test methods
-     *
+     * update by micheal 2015-11-04
      */
     public static void main(String args[]){
         String content = "I am from guangzhou where is beauful city!";
