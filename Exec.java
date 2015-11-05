@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**
  * 
- * @author Micheal.
+ * @author Guogongpu.
  * @Time 2015Äê11ÔÂ5ÈÕ
  * @Version 1.0
  */
