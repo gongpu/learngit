@@ -4,7 +4,7 @@ import java.io.IOException;
  * 
  * Modified log:
  * ----------------------------------
- * 2015Äê11ÔÂ5ÈÕ Ver.1.0 Micheal Created.
+ * 2015年11月5日 Ver.1.0 Micheal Created.
  */
 
 /**
