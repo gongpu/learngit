@@ -4,13 +4,13 @@ import java.io.IOException;
  * 
  * Modified log:
  * ----------------------------------
- * 2015Äê11ÔÂ5ÈÕ Ver.1.0 Micheal Created.
+ * 2015Ã„Ãª11Ã”Ã‚5ÃˆÃ• Ver.1.0 Micheal Created.
  */
 
 /**
  * 
  * @author Micheal.
- * @Time 2015Äê11ÔÂ5ÈÕ
+ * @Time 2015å¹´11æœˆ5æ—¥
  * @Version 1.0
  */
 class Exec{
@@ -18,7 +18,7 @@ class Exec{
 	 * 
 	 * @param args
 	 * @throws IOException<br>
-	 * @author Guogongpu, 2015Äê11ÔÂ5ÈÕ.<br>
+	 * @author Guogongpu, 2015å¹´11æœˆ5æ—¥.<br>
 	 */
     public static void main(String args[]) throws IOException{
        Runtime.getRuntime().exec("ls");
