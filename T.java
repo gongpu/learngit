@@ -37,7 +37,7 @@ public class T {
 	 * @author Guogongpu, 2015Äê11ÔÂ5ÈÕ.<br>
 	 */
 	public static void main(String args[]) {
-		String content = "I am from guangzhou where is beauful city!";
+		String content = "I am from guangzhou where is a beauful city!";
 		System.out.println(cutString(content, 50));
 		System.out.println(cutString(content, 5));
 
